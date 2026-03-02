@@ -1,1 +1,2 @@
 Preparing release 1.0
+Critical bug fix
